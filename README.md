@@ -10,6 +10,9 @@ API Intelligence      ███████████████████�
 Protocol Forensics    ██████████████████░░░░░ 80%
 Toolsmith             ███████████████░░░░░░░ 70%
 
-</details><!-- GitHub Metrics Aggregator --><img src="https://metrics.lecoq.io/Klypse?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&followup=1&isocalendar.duration=half-year&languages.limit=6&languages.threshold=0.02&config.timezone=Asia/Seoul" width="90%"/><!-- Contribution Snake --><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"/><!-- Visitor Counter --><p align="center">
+</details><!-- GitHub Stats (Stable Alternative to Metrics) --><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Klypse&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Klypse&theme=tokyonight&hide_border=true" width="48%" />
+</p><!-- Contribution Snake --><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"/><!-- Visitor Counter --><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Klypse&style=flat-square&color=6d28d9"/>
 </p><!-- Futuristic Footer Wave --><img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=06b6d4,4f46e5,6d28d9"/></div>
